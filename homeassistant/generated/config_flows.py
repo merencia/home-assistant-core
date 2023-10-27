@@ -41,6 +41,7 @@ FLOWS = {
         "amberelectric",
         "ambiclimate",
         "ambient_station",
+        "amt8000",
         "android_ip_webcam",
         "androidtv",
         "androidtv_remote",
